@@ -310,7 +310,7 @@ addEventListener( "DOMContentLoaded", () => {
       </drawer-logo>
       <drawer-home>
          <d-link>
-            <a href="${Links[0].link}" 
+            <a href="${l0.link}" 
                title="${Links[0].title}" >
                ${Links[0].icon}
             </a>
